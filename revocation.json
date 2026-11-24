@@ -1,9 +1,14 @@
 {
   "list": {
-    "updated_at": "2026-11-24T09:52:37.768208500Z",
-    "revoked": [],
-    "nonce": "a9f297e4eea7576118b87ca8010aedbd"
+    "updated_at": "2026-11-24T18:57:09.212122Z",
+    "revoked": [
+      "17acecd6850f6c43a4d93bf62beb59aa",
+      "182b647413859635372bc771c0539c1d",
+      "3929a311b39631d74682f9fdd3cb1af1",
+      "7afbf15dcda97ec5cd32becb925c32a7"
+    ],
+    "nonce": "036602f3052eb79a20cbeb476638dadf"
   },
-  "signature": "10f51b9d09b14f19e1c912a67812123e165961c0c963b3ff9957915c41299cf9bb690e89276aa62641630e5a1bb3c4635f81d3fb361333f338fc9015260f6d07",
+  "signature": "51a21752d46a4e7b530c444d203ad728a4675b76e7339823c56605b5f1a9efac45d5a9ee1e9d31ec36b7076f3c18ae008f9333c346af4ef913e149731ce3b30d",
   "format": 1
 }
