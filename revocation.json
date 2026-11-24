@@ -1,9 +1,11 @@
 {
   "list": {
-    "updated_at": "2026-11-23T17:39:30.387796300Z",
-    "revoked": [],
-    "nonce": "08f9a5395ed879baeb9248f69e571ed2"
+    "updated_at": "2026-11-24T09:48:37.946522900Z",
+    "revoked": [
+      "182b647413859635372bc771c0539c1d"
+    ],
+    "nonce": "1db813a15b5e4ec9fc0982421b32a2b6"
   },
-  "signature": "e0038a35e3aaa2950501bb9b688f5cd11f35241b61bea6ee81562b2668197f74bc8afb934ede1494254096a6d7d9ec528122996d73b2826f44127b107ed4800d",
+  "signature": "7e0a3e035555cdce2f2252fcb8082f1d3881173605546c8d7bae766b40a4d6b267825f6b6eff83cc1838d6e76bba38b6908689d100032eeb857fc84a4761100f",
   "format": 1
 }
