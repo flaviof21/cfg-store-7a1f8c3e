@@ -1,12 +1,11 @@
 {
   "list": {
-    "updated_at": "2026-11-24T19:28:53.255729600Z",
+    "updated_at": "2026-11-25T22:58:44.476538800Z",
     "revoked": [
-      "17acecd6850f6c43a4d93bf62beb59aa",
-      "182b647413859635372bc771c0539c1d"
+      "17acecd6850f6c43a4d93bf62beb59aa"
     ],
-    "nonce": "70d748ea1922e90c786cb0263acacb52"
+    "nonce": "208cf520ad054ccc04a3b9f7c9e08d07"
   },
-  "signature": "ec70e0a7cf9b8b14164fedd49c56dad2b23f7c1201cfeab638d74f997c6cd6f76bed1fe32cc9afdf01ff0ac11eaeea700d4568c831cadce3e44ec35fb94ba00a",
+  "signature": "cacaad4f468b87be8a9b18ecdd3de54eeb8d5d388c09487b0cf33a955ac1834d09526538cc438cae9854dc05f8ccb978c9d5e0dbeed8e97ea424aea7686f900f",
   "format": 1
 }
